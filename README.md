@@ -5,13 +5,13 @@ single: true
 footer: MIT Licensed | Copyright © 2020 心谭
 ---
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xhhp50jpj31bi0hcju4.jpg)
+![](https://6d78-mxm1923893223-ulteh-1302287111.tcb.qcloud.la/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%96%99/IMG_6687.JPG?sign=1a70406fc97b0e8700eef43b372251f3&t=1628353165)
 
 此仓库是作者在 Web 学习和工作过程中逐渐积累的笔记。2020 年之前，主要内容是前端开发和算法题解；从 2020 年开始，由于工作和兴趣，主要是云计算（Serverless）和服务侧开发（NodeJS）。基于自身的认知难免有漏洞，也请大家指正。
 
 如果对你的学习成长有帮助，欢迎通过以下方式支持一下，我会有更多的动力去维护 👇👇：
 
--   关注 [**公众号**](https://6d78-mxm1923893223-ulteh-1302287111.tcb.qcloud.la/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%96%99/IMG_6687.JPG?sign=1a70406fc97b0e8700eef43b372251f3&t=1628353165)
+-   关注 [**公众号**](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxMjA2MTQ2OA==&scene=124#wechat_redirect)
 -   Star [**Github 项目**](https://github.com/dongyuanxin/blog)
 
 **关键节点** ：[**Web 开发**](https://xin-tan.com/notes/) / [**前端图谱**](https://xin-tan.com/frontend/) / [**算法题解**](https://xin-tan.com/frontend/)
