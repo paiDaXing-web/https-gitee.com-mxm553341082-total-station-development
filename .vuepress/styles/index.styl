@@ -1,0 +1,44 @@
+#vuepress-plugin-comment
+  max-width $contentWidth
+  margin 0 auto
+  padding 2rem 2.5rem
+  @media (max-width: $MQNarrow)
+    padding 2rem
+  @media (max-width: $MQMobileNarrow)
+    padding 1.5rem
+
+#main-title
+  display none !important 
+
+.hero
+  .description 
+    display none !important 
+
+main.home
+  ul 
+    line-height: 2.5
+
+// $sidebarWidth: 20rem
+// define at: vuepress/packages/@vuepress/core/lib/client/style/config.styl
+.page   
+  @media (min-width: $MQNarrow + 1px) {
+    padding-right $sidebarWidth
+  }
+
+// 侧边栏
+.sidebar 
+  span, a 
+    font-size 14px !important
+    font-weight 500 !important
+
+.sidebar > .sidebar-links 
+  padding 0 !important
+
+.sidebar-group.is-sub-group > .sidebar-heading:not(.clickable) 
+  opacity 0.6 !important
+
+.sidebar span.arrow 
+  cursor pointer
+
+.sidebar-links > li 
+  margin-top 0 !important
