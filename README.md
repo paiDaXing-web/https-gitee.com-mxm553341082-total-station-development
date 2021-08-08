@@ -12,7 +12,7 @@ footer: MIT Licensed | Copyright © 2020 心谭
 如果对你的学习成长有帮助，欢迎通过以下方式支持一下，我会有更多的动力去维护 👇👇：
 
 -   关注 [**公众号**](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxMjA2MTQ2OA==&scene=124#wechat_redirect)
--   Star [**Github 项目**](https://github.com/dongyuanxin/blog)
+-   Star [**Github 项目**](https://github.com/paiDaXing-web/https-gitee.com-mxm553341082-total-station-development.git)
 
 **关键节点** ：[**Web 开发**](https://xin-tan.com/notes/) / [**前端图谱**](https://xin-tan.com/frontend/) / [**算法题解**](https://xin-tan.com/frontend/)
 
